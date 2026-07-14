@@ -1,0 +1,37 @@
+{
+  "maintenance": {
+    "enabled": false,
+    "title": {
+      "en": "We'll be right back"
+    },
+    "message": {
+      "en": "Scheduled maintenance is in progress. Your notes are safe."
+    },
+    "until": "2026-07-15T04:30:00Z"
+  },
+  "ios": {
+    "latest": "1.1.0",
+    "minSupported": "1.0.0",
+    "storeUrl": "https://apps.apple.com/app/id6786507441",
+    "whatsNew": {
+      "en": [
+        "Faster app start",
+        "New Liquid Glass design on iOS 26",
+        "Per-recording template picker",
+        "Bug fixes and stability improvements"
+      ]
+    }
+  },
+  "android": {
+    "latest": "1.1.0",
+    "minSupported": "1.0.0",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.voicenotes.ai.meeting.notes",
+    "whatsNew": {
+      "en": [
+        "Faster app start",
+        "Per-recording template picker",
+        "Bug fixes and stability improvements"
+      ]
+    }
+  }
+}
