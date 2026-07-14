@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "title": {
       "en": "We'll be right back"
     },
