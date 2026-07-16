@@ -2,35 +2,176 @@
   "maintenance": {
     "enabled": false,
     "title": {
-      "en": "We'll be right back"
+      "en": "We'll be right back",
+      "es": "Volvemos enseguida",
+      "fr": "Nous revenons tout de suite",
+      "de": "Wir sind gleich zurück",
+      "it": "Torniamo subito",
+      "ja": "まもなく再開します",
+      "ko": "곧 돌아오겠습니다",
+      "zh": "我们马上回来",
+      "th": "เดี๋ยวเรากลับมา",
+      "vi": "Chúng tôi sẽ trở lại ngay",
+      "pt": "Voltamos já"
     },
     "message": {
-      "en": "Scheduled maintenance is in progress. Your notes are safe."
+      "en": "Scheduled maintenance is in progress. Your notes are safe.",
+      "es": "Estamos realizando un mantenimiento programado. Tus notas están seguras.",
+      "fr": "Une maintenance planifiée est en cours. Vos notes sont en sécurité.",
+      "de": "Eine geplante Wartung läuft gerade. Deine Notizen sind sicher.",
+      "it": "È in corso una manutenzione programmata. Le tue note sono al sicuro.",
+      "ja": "定期メンテナンスを実施中です。ノートは安全に保存されています。",
+      "ko": "예정된 점검을 진행하고 있습니다. 메모는 안전하게 보관됩니다.",
+      "zh": "正在进行例行维护。您的笔记很安全。",
+      "th": "กำลังดำเนินการบำรุงรักษาตามกำหนด บันทึกของคุณปลอดภัย",
+      "vi": "Đang bảo trì theo lịch. Ghi chú của bạn vẫn an toàn.",
+      "pt": "Manutenção programada em andamento. Suas notas estão seguras."
     },
     "until": "2026-07-15T04:30:00Z"
   },
   "ios": {
-    "latest": "1.0.0",
+    "latest": "1.2.0",
     "minSupported": "1.0.0",
     "storeUrl": "https://apps.apple.com/app/id6786507441",
     "whatsNew": {
       "en": [
-        "Faster app start",
-        "New Liquid Glass design on iOS 26",
-        "Per-recording template picker",
+        "Redesigned summaries",
+        "Full-screen recording view",
+        "More reliable recording — data-loss fixes",
         "Bug fixes and stability improvements"
+      ],
+      "es": [
+        "Resúmenes rediseñados",
+        "Vista de grabación a pantalla completa",
+        "Grabación más fiable: correcciones de pérdida de datos",
+        "Corrección de errores y mejoras de estabilidad"
+      ],
+      "fr": [
+        "Résumés repensés",
+        "Vue d'enregistrement en plein écran",
+        "Enregistrement plus fiable — corrections des pertes de données",
+        "Corrections de bugs et améliorations de la stabilité"
+      ],
+      "de": [
+        "Neu gestaltete Zusammenfassungen",
+        "Vollbild-Aufnahmeansicht",
+        "Zuverlässigere Aufnahme – Behebung von Datenverlusten",
+        "Fehlerbehebungen und Stabilitätsverbesserungen"
+      ],
+      "it": [
+        "Riepiloghi ridisegnati",
+        "Vista di registrazione a schermo intero",
+        "Registrazione più affidabile: correzioni per la perdita di dati",
+        "Correzioni di bug e miglioramenti della stabilità"
+      ],
+      "ja": [
+        "要約のデザインを刷新",
+        "フルスクリーンの録音画面",
+        "録音の信頼性が向上 — データ損失の修正",
+        "バグ修正と安定性の向上"
+      ],
+      "ko": [
+        "새롭게 디자인된 요약",
+        "전체 화면 녹음 화면",
+        "더 안정적인 녹음 — 데이터 손실 수정",
+        "버그 수정 및 안정성 개선"
+      ],
+      "zh": [
+        "重新设计的摘要",
+        "全屏录音界面",
+        "录音更可靠 — 修复数据丢失问题",
+        "错误修复和稳定性改进"
+      ],
+      "th": [
+        "ออกแบบสรุปใหม่",
+        "มุมมองบันทึกเสียงแบบเต็มจอ",
+        "บันทึกเสียงเสถียรขึ้น — แก้ปัญหาข้อมูลสูญหาย",
+        "แก้ไขข้อบกพร่องและปรับปรุงความเสถียร"
+      ],
+      "vi": [
+        "Bản tóm tắt được thiết kế lại",
+        "Giao diện ghi âm toàn màn hình",
+        "Ghi âm ổn định hơn — khắc phục mất dữ liệu",
+        "Sửa lỗi và cải thiện độ ổn định"
+      ],
+      "pt": [
+        "Resumos redesenhados",
+        "Tela de gravação em tela cheia",
+        "Gravação mais confiável — correções de perda de dados",
+        "Correção de erros e melhorias de estabilidade"
       ]
     }
   },
   "android": {
-    "latest": "1.1.0",
+    "latest": "1.2.0",
     "minSupported": "1.0.0",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.voicenotes.ai.meeting.notes",
     "whatsNew": {
       "en": [
-        "Faster app start",
-        "Per-recording template picker",
+        "Redesigned summaries",
+        "Full-screen recording view",
+        "More reliable recording — data-loss fixes",
         "Bug fixes and stability improvements"
+      ],
+      "es": [
+        "Resúmenes rediseñados",
+        "Vista de grabación a pantalla completa",
+        "Grabación más fiable: correcciones de pérdida de datos",
+        "Corrección de errores y mejoras de estabilidad"
+      ],
+      "fr": [
+        "Résumés repensés",
+        "Vue d'enregistrement en plein écran",
+        "Enregistrement plus fiable — corrections des pertes de données",
+        "Corrections de bugs et améliorations de la stabilité"
+      ],
+      "de": [
+        "Neu gestaltete Zusammenfassungen",
+        "Vollbild-Aufnahmeansicht",
+        "Zuverlässigere Aufnahme – Behebung von Datenverlusten",
+        "Fehlerbehebungen und Stabilitätsverbesserungen"
+      ],
+      "it": [
+        "Riepiloghi ridisegnati",
+        "Vista di registrazione a schermo intero",
+        "Registrazione più affidabile: correzioni per la perdita di dati",
+        "Correzioni di bug e miglioramenti della stabilità"
+      ],
+      "ja": [
+        "要約のデザインを刷新",
+        "フルスクリーンの録音画面",
+        "録音の信頼性が向上 — データ損失の修正",
+        "バグ修正と安定性の向上"
+      ],
+      "ko": [
+        "새롭게 디자인된 요약",
+        "전체 화면 녹음 화면",
+        "더 안정적인 녹음 — 데이터 손실 수정",
+        "버그 수정 및 안정성 개선"
+      ],
+      "zh": [
+        "重新设计的摘要",
+        "全屏录音界面",
+        "录音更可靠 — 修复数据丢失问题",
+        "错误修复和稳定性改进"
+      ],
+      "th": [
+        "ออกแบบสรุปใหม่",
+        "มุมมองบันทึกเสียงแบบเต็มจอ",
+        "บันทึกเสียงเสถียรขึ้น — แก้ปัญหาข้อมูลสูญหาย",
+        "แก้ไขข้อบกพร่องและปรับปรุงความเสถียร"
+      ],
+      "vi": [
+        "Bản tóm tắt được thiết kế lại",
+        "Giao diện ghi âm toàn màn hình",
+        "Ghi âm ổn định hơn — khắc phục mất dữ liệu",
+        "Sửa lỗi và cải thiện độ ổn định"
+      ],
+      "pt": [
+        "Resumos redesenhados",
+        "Tela de gravação em tela cheia",
+        "Gravação mais confiável — correções de perda de dados",
+        "Correção de erros e melhorias de estabilidade"
       ]
     }
   }
