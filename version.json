@@ -30,7 +30,7 @@
     "until": "2026-07-15T04:30:00Z"
   },
   "ios": {
-    "latest": "1.2.0",
+    "latest": "1.1.0",
     "minSupported": "1.0.0",
     "storeUrl": "https://apps.apple.com/app/id6786507441",
     "whatsNew": {
