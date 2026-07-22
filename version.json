@@ -30,74 +30,74 @@
     "until": "2026-07-15T04:30:00Z"
   },
   "ios": {
-    "latest": "1.1.0",
-    "minSupported": "1.0.0",
+    "latest": "2.1.0",
+    "minSupported": "2.1.0",
     "storeUrl": "https://apps.apple.com/app/id6786507441",
     "whatsNew": {
       "en": [
-        "Redesigned summaries",
-        "Full-screen recording view",
-        "More reliable recording — data-loss fixes",
+        "Pay as you go — buy recording hours, no subscription",
+        "New offline mode — see at a glance what needs a connection",
+        "Big performance improvements throughout the app",
         "Bug fixes and stability improvements"
       ],
       "es": [
-        "Resúmenes rediseñados",
-        "Vista de grabación a pantalla completa",
-        "Grabación más fiable: correcciones de pérdida de datos",
+        "Paga solo por lo que usas: compra horas de grabación, sin suscripción",
+        "Nuevo modo sin conexión: ve de un vistazo qué necesita internet",
+        "Grandes mejoras de rendimiento en toda la app",
         "Corrección de errores y mejoras de estabilidad"
       ],
       "fr": [
-        "Résumés repensés",
-        "Vue d'enregistrement en plein écran",
-        "Enregistrement plus fiable — corrections des pertes de données",
+        "Payez à l'usage — achetez des heures d'enregistrement, sans abonnement",
+        "Nouveau mode hors ligne — voyez d'un coup d'œil ce qui nécessite Internet",
+        "Grandes améliorations des performances dans toute l'app",
         "Corrections de bugs et améliorations de la stabilité"
       ],
       "de": [
-        "Neu gestaltete Zusammenfassungen",
-        "Vollbild-Aufnahmeansicht",
-        "Zuverlässigere Aufnahme – Behebung von Datenverlusten",
+        "Pay as you go – Aufnahmestunden kaufen, ganz ohne Abo",
+        "Neuer Offline-Modus – auf einen Blick sehen, was Internet braucht",
+        "Große Leistungsverbesserungen in der ganzen App",
         "Fehlerbehebungen und Stabilitätsverbesserungen"
       ],
       "it": [
-        "Riepiloghi ridisegnati",
-        "Vista di registrazione a schermo intero",
-        "Registrazione più affidabile: correzioni per la perdita di dati",
+        "Paghi solo ciò che usi: acquista ore di registrazione, senza abbonamento",
+        "Nuova modalità offline: vedi a colpo d'occhio cosa richiede Internet",
+        "Grandi miglioramenti delle prestazioni in tutta l'app",
         "Correzioni di bug e miglioramenti della stabilità"
       ],
       "ja": [
-        "要約のデザインを刷新",
-        "フルスクリーンの録音画面",
-        "録音の信頼性が向上 — データ損失の修正",
+        "使った分だけお支払い — サブスク不要で録音時間を購入",
+        "新しいオフラインモード — 接続が必要な機能がひと目でわかる",
+        "アプリ全体のパフォーマンスを大幅に改善",
         "バグ修正と安定性の向上"
       ],
       "ko": [
-        "새롭게 디자인된 요약",
-        "전체 화면 녹음 화면",
-        "더 안정적인 녹음 — 데이터 손실 수정",
+        "쓴 만큼만 결제 — 구독 없이 녹음 시간 구매",
+        "새로운 오프라인 모드 — 인터넷이 필요한 기능을 한눈에",
+        "앱 전반의 성능 대폭 개선",
         "버그 수정 및 안정성 개선"
       ],
       "zh": [
-        "重新设计的摘要",
-        "全屏录音界面",
-        "录音更可靠 — 修复数据丢失问题",
+        "按需付费 — 购买录音时长，无需订阅",
+        "全新离线模式 — 一眼看清哪些功能需要联网",
+        "应用整体性能大幅提升",
         "错误修复和稳定性改进"
       ],
       "th": [
-        "ออกแบบสรุปใหม่",
-        "มุมมองบันทึกเสียงแบบเต็มจอ",
-        "บันทึกเสียงเสถียรขึ้น — แก้ปัญหาข้อมูลสูญหาย",
+        "จ่ายตามการใช้งาน — ซื้อชั่วโมงอัดเสียงโดยไม่ต้องสมัครสมาชิก",
+        "โหมดออฟไลน์ใหม่ — เห็นได้ทันทีว่าฟีเจอร์ใดต้องใช้อินเทอร์เน็ต",
+        "ปรับปรุงประสิทธิภาพครั้งใหญ่ทั่วทั้งแอป",
         "แก้ไขข้อบกพร่องและปรับปรุงความเสถียร"
       ],
       "vi": [
-        "Bản tóm tắt được thiết kế lại",
-        "Giao diện ghi âm toàn màn hình",
-        "Ghi âm ổn định hơn — khắc phục mất dữ liệu",
+        "Dùng bao nhiêu trả bấy nhiêu — mua giờ ghi âm, không cần thuê bao",
+        "Chế độ ngoại tuyến mới — thấy ngay tính năng nào cần mạng",
+        "Cải thiện hiệu năng đáng kể trên toàn ứng dụng",
         "Sửa lỗi và cải thiện độ ổn định"
       ],
       "pt": [
-        "Resumos redesenhados",
-        "Tela de gravação em tela cheia",
-        "Gravação mais confiável — correções de perda de dados",
+        "Pague conforme o uso — compre horas de gravação, sem assinatura",
+        "Novo modo offline — veja rapidamente o que precisa de internet",
+        "Grandes melhorias de desempenho em todo o app",
         "Correção de erros e melhorias de estabilidade"
       ]
     }
