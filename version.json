@@ -27,150 +27,150 @@
       "vi": "Đang bảo trì theo lịch. Ghi chú của bạn vẫn an toàn.",
       "pt": "Manutenção programada em andamento. Suas notas estão seguras."
     },
-    "until": "2026-07-15T04:30:00Z"
+    "until": "2026-08-15T04:30:00Z"
   },
   "ios": {
-    "latest": "2.1.0",
-    "minSupported": "2.1.0",
+    "latest": "2.7.0",
+    "minSupported": "2.7.0",
     "storeUrl": "https://apps.apple.com/app/id6786507441",
     "whatsNew": {
       "en": [
-        "Pay as you go — buy recording hours, no subscription",
-        "New offline mode — see at a glance what needs a connection",
-        "Big performance improvements throughout the app",
+        "Your recording hours now follow you — reinstalling keeps your balance exact",
+        "Faster notes: summaries and formats generate on-device first",
+        "More reliable recording and playback",
         "Bug fixes and stability improvements"
       ],
       "es": [
-        "Paga solo por lo que usas: compra horas de grabación, sin suscripción",
-        "Nuevo modo sin conexión: ve de un vistazo qué necesita internet",
-        "Grandes mejoras de rendimiento en toda la app",
+        "Tus horas de grabación te acompañan: al reinstalar, tu saldo se mantiene exacto",
+        "Notas más rápidas: los resúmenes y formatos se generan primero en el dispositivo",
+        "Grabación y reproducción más fiables",
         "Corrección de errores y mejoras de estabilidad"
       ],
       "fr": [
-        "Payez à l'usage — achetez des heures d'enregistrement, sans abonnement",
-        "Nouveau mode hors ligne — voyez d'un coup d'œil ce qui nécessite Internet",
-        "Grandes améliorations des performances dans toute l'app",
+        "Vos heures d'enregistrement vous suivent — la réinstallation conserve votre solde exact",
+        "Notes plus rapides : résumés et formats générés d'abord sur l'appareil",
+        "Enregistrement et lecture plus fiables",
         "Corrections de bugs et améliorations de la stabilité"
       ],
       "de": [
-        "Pay as you go – Aufnahmestunden kaufen, ganz ohne Abo",
-        "Neuer Offline-Modus – auf einen Blick sehen, was Internet braucht",
-        "Große Leistungsverbesserungen in der ganzen App",
+        "Deine Aufnahmestunden begleiten dich – nach Neuinstallation bleibt dein Guthaben exakt",
+        "Schnellere Notizen: Zusammenfassungen und Formate entstehen zuerst auf dem Gerät",
+        "Zuverlässigere Aufnahme und Wiedergabe",
         "Fehlerbehebungen und Stabilitätsverbesserungen"
       ],
       "it": [
-        "Paghi solo ciò che usi: acquista ore di registrazione, senza abbonamento",
-        "Nuova modalità offline: vedi a colpo d'occhio cosa richiede Internet",
-        "Grandi miglioramenti delle prestazioni in tutta l'app",
+        "Le tue ore di registrazione ti seguono: reinstallando, il saldo resta esatto",
+        "Note più rapide: riepiloghi e formati generati prima sul dispositivo",
+        "Registrazione e riproduzione più affidabili",
         "Correzioni di bug e miglioramenti della stabilità"
       ],
       "ja": [
-        "使った分だけお支払い — サブスク不要で録音時間を購入",
-        "新しいオフラインモード — 接続が必要な機能がひと目でわかる",
-        "アプリ全体のパフォーマンスを大幅に改善",
+        "録音時間が引き継がれます — 再インストールしても残高はそのまま",
+        "ノートがより速く — 要約とフォーマットをまず端末上で生成",
+        "録音と再生の信頼性が向上",
         "バグ修正と安定性の向上"
       ],
       "ko": [
-        "쓴 만큼만 결제 — 구독 없이 녹음 시간 구매",
-        "새로운 오프라인 모드 — 인터넷이 필요한 기능을 한눈에",
-        "앱 전반의 성능 대폭 개선",
+        "녹음 시간이 그대로 유지됩니다 — 재설치해도 잔액이 정확히 보존됩니다",
+        "더 빠른 메모 — 요약과 형식을 기기에서 먼저 생성",
+        "더 안정적인 녹음과 재생",
         "버그 수정 및 안정성 개선"
       ],
       "zh": [
-        "按需付费 — 购买录音时长，无需订阅",
-        "全新离线模式 — 一眼看清哪些功能需要联网",
-        "应用整体性能大幅提升",
+        "录音时长随身携带 — 重新安装后余额分毫不差",
+        "笔记更快 — 摘要和格式优先在设备上生成",
+        "录音与播放更可靠",
         "错误修复和稳定性改进"
       ],
       "th": [
-        "จ่ายตามการใช้งาน — ซื้อชั่วโมงอัดเสียงโดยไม่ต้องสมัครสมาชิก",
-        "โหมดออฟไลน์ใหม่ — เห็นได้ทันทีว่าฟีเจอร์ใดต้องใช้อินเทอร์เน็ต",
-        "ปรับปรุงประสิทธิภาพครั้งใหญ่ทั่วทั้งแอป",
+        "ชั่วโมงอัดเสียงติดตามคุณไปด้วย — ติดตั้งใหม่ยอดคงเหลือยังคงถูกต้อง",
+        "บันทึกเร็วขึ้น — สร้างสรุปและรูปแบบบนเครื่องก่อน",
+        "อัดเสียงและเล่นเสียงเสถียรขึ้น",
         "แก้ไขข้อบกพร่องและปรับปรุงความเสถียร"
       ],
       "vi": [
-        "Dùng bao nhiêu trả bấy nhiêu — mua giờ ghi âm, không cần thuê bao",
-        "Chế độ ngoại tuyến mới — thấy ngay tính năng nào cần mạng",
-        "Cải thiện hiệu năng đáng kể trên toàn ứng dụng",
+        "Giờ ghi âm luôn đi cùng bạn — cài lại vẫn giữ nguyên số dư",
+        "Ghi chú nhanh hơn — tóm tắt và định dạng được tạo trên máy trước",
+        "Ghi âm và phát lại ổn định hơn",
         "Sửa lỗi và cải thiện độ ổn định"
       ],
       "pt": [
-        "Pague conforme o uso — compre horas de gravação, sem assinatura",
-        "Novo modo offline — veja rapidamente o que precisa de internet",
-        "Grandes melhorias de desempenho em todo o app",
+        "Suas horas de gravação acompanham você — reinstalar mantém o saldo exato",
+        "Notas mais rápidas: resumos e formatos gerados primeiro no aparelho",
+        "Gravação e reprodução mais confiáveis",
         "Correção de erros e melhorias de estabilidade"
       ]
     }
   },
   "android": {
-    "latest": "1.1.0",
-    "minSupported": "1.0.0",
+    "latest": "3.3.0",
+    "minSupported": "3.3.0",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.voicenotes.ai.meeting.notes",
     "whatsNew": {
       "en": [
-        "Redesigned summaries",
-        "Full-screen recording view",
-        "More reliable recording — data-loss fixes",
+        "Your recording hours now follow you — reinstalling keeps your balance exact",
+        "Faster notes: summaries and formats generate on-device first",
+        "More reliable recording and playback",
         "Bug fixes and stability improvements"
       ],
       "es": [
-        "Resúmenes rediseñados",
-        "Vista de grabación a pantalla completa",
-        "Grabación más fiable: correcciones de pérdida de datos",
+        "Tus horas de grabación te acompañan: al reinstalar, tu saldo se mantiene exacto",
+        "Notas más rápidas: los resúmenes y formatos se generan primero en el dispositivo",
+        "Grabación y reproducción más fiables",
         "Corrección de errores y mejoras de estabilidad"
       ],
       "fr": [
-        "Résumés repensés",
-        "Vue d'enregistrement en plein écran",
-        "Enregistrement plus fiable — corrections des pertes de données",
+        "Vos heures d'enregistrement vous suivent — la réinstallation conserve votre solde exact",
+        "Notes plus rapides : résumés et formats générés d'abord sur l'appareil",
+        "Enregistrement et lecture plus fiables",
         "Corrections de bugs et améliorations de la stabilité"
       ],
       "de": [
-        "Neu gestaltete Zusammenfassungen",
-        "Vollbild-Aufnahmeansicht",
-        "Zuverlässigere Aufnahme – Behebung von Datenverlusten",
+        "Deine Aufnahmestunden begleiten dich – nach Neuinstallation bleibt dein Guthaben exakt",
+        "Schnellere Notizen: Zusammenfassungen und Formate entstehen zuerst auf dem Gerät",
+        "Zuverlässigere Aufnahme und Wiedergabe",
         "Fehlerbehebungen und Stabilitätsverbesserungen"
       ],
       "it": [
-        "Riepiloghi ridisegnati",
-        "Vista di registrazione a schermo intero",
-        "Registrazione più affidabile: correzioni per la perdita di dati",
+        "Le tue ore di registrazione ti seguono: reinstallando, il saldo resta esatto",
+        "Note più rapide: riepiloghi e formati generati prima sul dispositivo",
+        "Registrazione e riproduzione più affidabili",
         "Correzioni di bug e miglioramenti della stabilità"
       ],
       "ja": [
-        "要約のデザインを刷新",
-        "フルスクリーンの録音画面",
-        "録音の信頼性が向上 — データ損失の修正",
+        "録音時間が引き継がれます — 再インストールしても残高はそのまま",
+        "ノートがより速く — 要約とフォーマットをまず端末上で生成",
+        "録音と再生の信頼性が向上",
         "バグ修正と安定性の向上"
       ],
       "ko": [
-        "새롭게 디자인된 요약",
-        "전체 화면 녹음 화면",
-        "더 안정적인 녹음 — 데이터 손실 수정",
+        "녹음 시간이 그대로 유지됩니다 — 재설치해도 잔액이 정확히 보존됩니다",
+        "더 빠른 메모 — 요약과 형식을 기기에서 먼저 생성",
+        "더 안정적인 녹음과 재생",
         "버그 수정 및 안정성 개선"
       ],
       "zh": [
-        "重新设计的摘要",
-        "全屏录音界面",
-        "录音更可靠 — 修复数据丢失问题",
+        "录音时长随身携带 — 重新安装后余额分毫不差",
+        "笔记更快 — 摘要和格式优先在设备上生成",
+        "录音与播放更可靠",
         "错误修复和稳定性改进"
       ],
       "th": [
-        "ออกแบบสรุปใหม่",
-        "มุมมองบันทึกเสียงแบบเต็มจอ",
-        "บันทึกเสียงเสถียรขึ้น — แก้ปัญหาข้อมูลสูญหาย",
+        "ชั่วโมงอัดเสียงติดตามคุณไปด้วย — ติดตั้งใหม่ยอดคงเหลือยังคงถูกต้อง",
+        "บันทึกเร็วขึ้น — สร้างสรุปและรูปแบบบนเครื่องก่อน",
+        "อัดเสียงและเล่นเสียงเสถียรขึ้น",
         "แก้ไขข้อบกพร่องและปรับปรุงความเสถียร"
       ],
       "vi": [
-        "Bản tóm tắt được thiết kế lại",
-        "Giao diện ghi âm toàn màn hình",
-        "Ghi âm ổn định hơn — khắc phục mất dữ liệu",
+        "Giờ ghi âm luôn đi cùng bạn — cài lại vẫn giữ nguyên số dư",
+        "Ghi chú nhanh hơn — tóm tắt và định dạng được tạo trên máy trước",
+        "Ghi âm và phát lại ổn định hơn",
         "Sửa lỗi và cải thiện độ ổn định"
       ],
       "pt": [
-        "Resumos redesenhados",
-        "Tela de gravação em tela cheia",
-        "Gravação mais confiável — correções de perda de dados",
+        "Suas horas de gravação acompanham você — reinstalar mantém o saldo exato",
+        "Notas mais rápidas: resumos e formatos gerados primeiro no aparelho",
+        "Gravação e reprodução mais confiáveis",
         "Correção de erros e melhorias de estabilidade"
       ]
     }
