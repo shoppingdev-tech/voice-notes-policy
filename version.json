@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "title": {
       "en": "We'll be right back",
       "es": "Volvemos enseguida",
@@ -103,8 +103,8 @@
     }
   },
   "android": {
-    "latest": "3.3.0",
-    "minSupported": "3.3.0",
+    "latest": "3.6.0",
+    "minSupported": "3.6.0",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.voicenotes.ai.meeting.notes",
     "whatsNew": {
       "en": [
