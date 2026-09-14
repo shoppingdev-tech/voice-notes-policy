@@ -35,142 +35,164 @@
     "storeUrl": "https://apps.apple.com/app/id6786507441",
     "whatsNew": {
       "en": [
-        "Your recording hours now follow you — reinstalling keeps your balance exact",
-        "Faster notes: summaries and formats generate on-device first",
-        "More reliable recording and playback",
+        "Full-screen recorder: tap Minimize to keep recording while you use the rest of the app",
+        "New app language: Tigrinya (ትግርኛ)",
+        "Visual polish across the recorder, tag and language sheets",
         "Bug fixes and stability improvements"
       ],
       "es": [
-        "Tus horas de grabación te acompañan: al reinstalar, tu saldo se mantiene exacto",
-        "Notas más rápidas: los resúmenes y formatos se generan primero en el dispositivo",
-        "Grabación y reproducción más fiables",
+        "Grabadora a pantalla completa: toca Minimizar para seguir grabando mientras usas el resto de la app",
+        "Nuevo idioma de la app: tigriña (ትግርኛ)",
+        "Mejoras visuales en la grabadora y en los paneles de etiquetas e idiomas",
         "Corrección de errores y mejoras de estabilidad"
       ],
       "fr": [
-        "Vos heures d'enregistrement vous suivent — la réinstallation conserve votre solde exact",
-        "Notes plus rapides : résumés et formats générés d'abord sur l'appareil",
-        "Enregistrement et lecture plus fiables",
+        "Enregistreur plein écran : touchez Réduire pour continuer d'enregistrer tout en utilisant le reste de l'app",
+        "Nouvelle langue de l'app : tigrigna (ትግርኛ)",
+        "Retouches visuelles de l'enregistreur et des panneaux Tags et Langues",
         "Corrections de bugs et améliorations de la stabilité"
       ],
       "de": [
-        "Deine Aufnahmestunden begleiten dich – nach Neuinstallation bleibt dein Guthaben exakt",
-        "Schnellere Notizen: Zusammenfassungen und Formate entstehen zuerst auf dem Gerät",
-        "Zuverlässigere Aufnahme und Wiedergabe",
+        "Vollbild-Rekorder: Tippe auf Minimieren, um weiter aufzunehmen, während du den Rest der App nutzt",
+        "Neue App-Sprache: Tigrinya (ትግርኛ)",
+        "Optischer Feinschliff für Rekorder, Tag- und Sprachauswahl",
         "Fehlerbehebungen und Stabilitätsverbesserungen"
       ],
       "it": [
-        "Le tue ore di registrazione ti seguono: reinstallando, il saldo resta esatto",
-        "Note più rapide: riepiloghi e formati generati prima sul dispositivo",
-        "Registrazione e riproduzione più affidabili",
+        "Registratore a schermo intero: tocca Riduci per continuare a registrare mentre usi il resto dell'app",
+        "Nuova lingua dell'app: tigrino (ትግርኛ)",
+        "Rifiniture grafiche a registratore, pannello tag e pannello lingue",
         "Correzioni di bug e miglioramenti della stabilità"
       ],
       "ja": [
-        "録音時間が引き継がれます — 再インストールしても残高はそのまま",
-        "ノートがより速く — 要約とフォーマットをまず端末上で生成",
-        "録音と再生の信頼性が向上",
+        "レコーダーが全画面に — 「最小化」をタップすれば録音を続けたままアプリの他の機能を使えます",
+        "新しいアプリ言語：ティグリニャ語（ትግርኛ）",
+        "レコーダー、タグ、言語シートの見た目を改善",
         "バグ修正と安定性の向上"
       ],
       "ko": [
-        "녹음 시간이 그대로 유지됩니다 — 재설치해도 잔액이 정확히 보존됩니다",
-        "더 빠른 메모 — 요약과 형식을 기기에서 먼저 생성",
-        "더 안정적인 녹음과 재생",
+        "전체 화면 녹음기 — 최소화를 누르면 녹음을 계속하면서 앱의 다른 기능을 사용할 수 있습니다",
+        "새 앱 언어: 티그리냐어 (ትግርኛ)",
+        "녹음기, 태그, 언어 시트의 디자인 다듬기",
         "버그 수정 및 안정성 개선"
       ],
       "zh": [
-        "录音时长随身携带 — 重新安装后余额分毫不差",
-        "笔记更快 — 摘要和格式优先在设备上生成",
-        "录音与播放更可靠",
+        "全屏录音器 — 点按“最小化”即可在使用应用其他功能时继续录音",
+        "新增应用语言：提格利尼亚语（ትግርኛ）",
+        "录音器、标签和语言面板的视觉细节打磨",
         "错误修复和稳定性改进"
       ],
       "th": [
-        "ชั่วโมงอัดเสียงติดตามคุณไปด้วย — ติดตั้งใหม่ยอดคงเหลือยังคงถูกต้อง",
-        "บันทึกเร็วขึ้น — สร้างสรุปและรูปแบบบนเครื่องก่อน",
-        "อัดเสียงและเล่นเสียงเสถียรขึ้น",
+        "หน้าอัดเสียงแบบเต็มจอ — แตะ ย่อ เพื่ออัดต่อไปขณะใช้ส่วนอื่นของแอป",
+        "ภาษาแอปใหม่: ทิกรินยา (ትግርኛ)",
+        "ปรับปรุงหน้าตาของหน้าอัดเสียง แผงแท็ก และแผงภาษา",
         "แก้ไขข้อบกพร่องและปรับปรุงความเสถียร"
       ],
       "vi": [
-        "Giờ ghi âm luôn đi cùng bạn — cài lại vẫn giữ nguyên số dư",
-        "Ghi chú nhanh hơn — tóm tắt và định dạng được tạo trên máy trước",
-        "Ghi âm và phát lại ổn định hơn",
+        "Trình ghi âm toàn màn hình — chạm Thu nhỏ để tiếp tục ghi âm trong khi dùng phần còn lại của ứng dụng",
+        "Ngôn ngữ ứng dụng mới: tiếng Tigrinya (ትግርኛ)",
+        "Chỉnh trau giao diện trình ghi âm, bảng thẻ và bảng ngôn ngữ",
         "Sửa lỗi và cải thiện độ ổn định"
       ],
       "pt": [
-        "Suas horas de gravação acompanham você — reinstalar mantém o saldo exato",
-        "Notas mais rápidas: resumos e formatos gerados primeiro no aparelho",
-        "Gravação e reprodução mais confiáveis",
+        "Gravador em tela cheia: toque em Minimizar para continuar gravando enquanto usa o resto do app",
+        "Novo idioma do app: tigrínia (ትግርኛ)",
+        "Ajustes visuais no gravador e nos painéis de tags e idiomas",
         "Correção de erros e melhorias de estabilidade"
       ]
     }
   },
   "android": {
-    "latest": "3.9.0",
-    "minSupported": "3.9.0",
+    "latest": "4.0.0",
+    "minSupported": "4.0.0",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.voicenotes.ai.meeting.notes",
     "whatsNew": {
       "en": [
-        "Your recording hours now follow you — reinstalling keeps your balance exact",
-        "Faster notes: summaries and formats generate on-device first",
-        "More reliable recording and playback",
+        "Full-screen recorder: tap Minimize to keep recording while you use the rest of the app",
+        "New app language: Tigrinya (ትግርኛ)",
+        "Fixed: the keyboard no longer covers the tag field",
+        "Fixed: the spoken-language list scrolls again",
+        "Visual polish across the recorder, tag and language sheets",
         "Bug fixes and stability improvements"
       ],
       "es": [
-        "Tus horas de grabación te acompañan: al reinstalar, tu saldo se mantiene exacto",
-        "Notas más rápidas: los resúmenes y formatos se generan primero en el dispositivo",
-        "Grabación y reproducción más fiables",
+        "Grabadora a pantalla completa: toca Minimizar para seguir grabando mientras usas el resto de la app",
+        "Nuevo idioma de la app: tigriña (ትግርኛ)",
+        "Corregido: el teclado ya no tapa el campo de etiquetas",
+        "Corregido: la lista de idiomas hablados vuelve a desplazarse",
+        "Mejoras visuales en la grabadora y en los paneles de etiquetas e idiomas",
         "Corrección de errores y mejoras de estabilidad"
       ],
       "fr": [
-        "Vos heures d'enregistrement vous suivent — la réinstallation conserve votre solde exact",
-        "Notes plus rapides : résumés et formats générés d'abord sur l'appareil",
-        "Enregistrement et lecture plus fiables",
+        "Enregistreur plein écran : touchez Réduire pour continuer d'enregistrer tout en utilisant le reste de l'app",
+        "Nouvelle langue de l'app : tigrigna (ትግርኛ)",
+        "Corrigé : le clavier ne masque plus le champ des tags",
+        "Corrigé : la liste des langues parlées défile à nouveau",
+        "Retouches visuelles de l'enregistreur et des panneaux Tags et Langues",
         "Corrections de bugs et améliorations de la stabilité"
       ],
       "de": [
-        "Deine Aufnahmestunden begleiten dich – nach Neuinstallation bleibt dein Guthaben exakt",
-        "Schnellere Notizen: Zusammenfassungen und Formate entstehen zuerst auf dem Gerät",
-        "Zuverlässigere Aufnahme und Wiedergabe",
+        "Vollbild-Rekorder: Tippe auf Minimieren, um weiter aufzunehmen, während du den Rest der App nutzt",
+        "Neue App-Sprache: Tigrinya (ትግርኛ)",
+        "Behoben: Die Tastatur verdeckt das Tag-Feld nicht mehr",
+        "Behoben: Die Liste der gesprochenen Sprachen lässt sich wieder scrollen",
+        "Optischer Feinschliff für Rekorder, Tag- und Sprachauswahl",
         "Fehlerbehebungen und Stabilitätsverbesserungen"
       ],
       "it": [
-        "Le tue ore di registrazione ti seguono: reinstallando, il saldo resta esatto",
-        "Note più rapide: riepiloghi e formati generati prima sul dispositivo",
-        "Registrazione e riproduzione più affidabili",
+        "Registratore a schermo intero: tocca Riduci per continuare a registrare mentre usi il resto dell'app",
+        "Nuova lingua dell'app: tigrino (ትግርኛ)",
+        "Risolto: la tastiera non copre più il campo dei tag",
+        "Risolto: l'elenco delle lingue parlate scorre di nuovo",
+        "Rifiniture grafiche a registratore, pannello tag e pannello lingue",
         "Correzioni di bug e miglioramenti della stabilità"
       ],
       "ja": [
-        "録音時間が引き継がれます — 再インストールしても残高はそのまま",
-        "ノートがより速く — 要約とフォーマットをまず端末上で生成",
-        "録音と再生の信頼性が向上",
+        "レコーダーが全画面に — 「最小化」をタップすれば録音を続けたままアプリの他の機能を使えます",
+        "新しいアプリ言語：ティグリニャ語（ትግርኛ）",
+        "修正：キーボードがタグ入力欄を隠さないように",
+        "修正：話す言語の一覧が再びスクロールできるように",
+        "レコーダー、タグ、言語シートの見た目を改善",
         "バグ修正と安定性の向上"
       ],
       "ko": [
-        "녹음 시간이 그대로 유지됩니다 — 재설치해도 잔액이 정확히 보존됩니다",
-        "더 빠른 메모 — 요약과 형식을 기기에서 먼저 생성",
-        "더 안정적인 녹음과 재생",
+        "전체 화면 녹음기 — 최소화를 누르면 녹음을 계속하면서 앱의 다른 기능을 사용할 수 있습니다",
+        "새 앱 언어: 티그리냐어 (ትግርኛ)",
+        "수정: 키보드가 태그 입력란을 가리지 않습니다",
+        "수정: 말하는 언어 목록이 다시 스크롤됩니다",
+        "녹음기, 태그, 언어 시트의 디자인 다듬기",
         "버그 수정 및 안정성 개선"
       ],
       "zh": [
-        "录音时长随身携带 — 重新安装后余额分毫不差",
-        "笔记更快 — 摘要和格式优先在设备上生成",
-        "录音与播放更可靠",
+        "全屏录音器 — 点按“最小化”即可在使用应用其他功能时继续录音",
+        "新增应用语言：提格利尼亚语（ትግርኛ）",
+        "修复：键盘不再遮挡标签输入框",
+        "修复：口语语言列表可以再次滚动",
+        "录音器、标签和语言面板的视觉细节打磨",
         "错误修复和稳定性改进"
       ],
       "th": [
-        "ชั่วโมงอัดเสียงติดตามคุณไปด้วย — ติดตั้งใหม่ยอดคงเหลือยังคงถูกต้อง",
-        "บันทึกเร็วขึ้น — สร้างสรุปและรูปแบบบนเครื่องก่อน",
-        "อัดเสียงและเล่นเสียงเสถียรขึ้น",
+        "หน้าอัดเสียงแบบเต็มจอ — แตะ ย่อ เพื่ออัดต่อไปขณะใช้ส่วนอื่นของแอป",
+        "ภาษาแอปใหม่: ทิกรินยา (ትግርኛ)",
+        "แก้ไข: แป้นพิมพ์ไม่บังช่องแท็กอีกต่อไป",
+        "แก้ไข: รายการภาษาที่พูดเลื่อนได้อีกครั้ง",
+        "ปรับปรุงหน้าตาของหน้าอัดเสียง แผงแท็ก และแผงภาษา",
         "แก้ไขข้อบกพร่องและปรับปรุงความเสถียร"
       ],
       "vi": [
-        "Giờ ghi âm luôn đi cùng bạn — cài lại vẫn giữ nguyên số dư",
-        "Ghi chú nhanh hơn — tóm tắt và định dạng được tạo trên máy trước",
-        "Ghi âm và phát lại ổn định hơn",
+        "Trình ghi âm toàn màn hình — chạm Thu nhỏ để tiếp tục ghi âm trong khi dùng phần còn lại của ứng dụng",
+        "Ngôn ngữ ứng dụng mới: tiếng Tigrinya (ትግርኛ)",
+        "Đã sửa: bàn phím không còn che ô nhập thẻ",
+        "Đã sửa: danh sách ngôn ngữ nói cuộn được trở lại",
+        "Chỉnh trau giao diện trình ghi âm, bảng thẻ và bảng ngôn ngữ",
         "Sửa lỗi và cải thiện độ ổn định"
       ],
       "pt": [
-        "Suas horas de gravação acompanham você — reinstalar mantém o saldo exato",
-        "Notas mais rápidas: resumos e formatos gerados primeiro no aparelho",
-        "Gravação e reprodução mais confiáveis",
+        "Gravador em tela cheia: toque em Minimizar para continuar gravando enquanto usa o resto do app",
+        "Novo idioma do app: tigrínia (ትግርኛ)",
+        "Corrigido: o teclado não cobre mais o campo de tags",
+        "Corrigido: a lista de idiomas falados volta a rolar",
+        "Ajustes visuais no gravador e nos painéis de tags e idiomas",
         "Correção de erros e melhorias de estabilidade"
       ]
     }
